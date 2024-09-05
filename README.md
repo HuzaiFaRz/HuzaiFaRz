@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/huzaifa-lakhani-1b4612297/**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLxUfwHVo/FSv6m9rv0WyrihcRB_b2ig/view?utm_content=DAGLxUfwHVo&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLxUfwHVo/FSv6m9rv0WyrihcRB_b2ig/view?utm_content=DAGLxUfwHVo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences  "👋 Hi, I’m a Junior Frontend Developer with 1.5 years of experience in building responsive, user-friendly web interfaces. I have a passion for translating design into clean, efficient code and continually improving my skills in modern frontend technologies. I enjoy solving problems and learning new tools to bring creative ideas to life!"
 
-- ⚡ Fun fact **I Think I Am Funny In Silent**
+- ⚡ Fun fact **My code has more versions than my morning coffee routine ☕!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
