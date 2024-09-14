@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Ecomus](https://github.com/HuzaiFaRz/Ecomus)
 
-- 🌱 I’m currently learning **React, Redux, Backend Development**
+- 🌱 I’m currently learning **React and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuzaiFaRz?tab=repositories](https://github.com/HuzaiFaRz?tab=repositories)
 
