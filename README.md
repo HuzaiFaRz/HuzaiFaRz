@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on React Project.
 
-- 🌱 I’m currently learning **React and Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuzaiFaRz?tab=repositories](https://github.com/HuzaiFaRz?tab=repositories)
 
