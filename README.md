@@ -1,48 +1,55 @@
-<h1 align="center">Hi 👋, I'm HuzaiFa Raza</h1>
-<h3 align="center">A passionate junior frontend developer from Pakistan</h3>
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1740&auto=format&fit=crop&q=80" alt="Banner" width="100%" />
+</div>
 
+<h1 align="center">Hi 👋, I'm Muhammad Huzaifa Raza</h1>
+<h3 align="center">🚀 MERN Stack Developer & Designer | Karachi</h3>
 
+---
 
+### 👨‍💻 About Me
+- 💼 **2 Years Experience** in web development  
+- 🎓 Completed **1 Year MERN Stack Course from SMIT**  
+- 🎨 Passionate about **creative UI/UX, animations, and performance optimization**  
 
-![MasterHead](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+---
 
+### 🛠️ Languages & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive-000000?style=for-the-badge&logo=webpack&logoColor=fff)
+![CSS Animation](https://img.shields.io/badge/CSS_Animation-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
+---
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifarz" alt="huzaifarz" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on React Project.
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HuzaiFaRz?tab=repositories](https://github.com/HuzaiFaRz?tab=repositories)
-
-- 📫 How to reach me **https://www.linkedin.com/in/huzaifa-lakhani-1b4612297/**
-
-- 📄 Know about my experiences  "👋 Hi, I’m a Junior Frontend Developer with 1.5 years of experience in building responsive, user-friendly web interfaces. I have a passion for translating design into clean, efficient code and continually improving my skills in modern frontend technologies. I enjoy solving problems and learning new tools to bring creative ideas to life!"
-
-- ⚡ Fun fact **My code has more versions than my morning coffee routine ☕!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/huzaifarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="[[https://codepen.io/huzaifarz](https://codepen.io/huzaifarz)](https://codepen.io/huzaifarz)" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huzaifa-lakhani-1b4612297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huzaifa-lakhani-1b4612297/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24548878/huzaifa-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24548878/huzaifa-a" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=61556848674707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556848674707" height="30" width="40" /></a>
-<a href="https://instagram.com/huzaifaraza15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huzaifaraza15" height="30" width="40" /></a>
-<a href="https://dribbble.com/wdsds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/wdsds" height="30" width="40" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuzaiFaRz&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFaRz&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HuzaiFaRz&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifarz&show_icons=true&locale=en&layout=compact" alt="huzaifarz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifarz&show_icons=true&locale=en" alt="huzaifarz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifarz&" alt="huzaifarz" /></p>
-
-<p align="center"> <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="huzaifarz" borderRadius="50%" width="500px" /> </p>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/huzaifa-a-raza-a-a52626330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://github.com/HuzaiFaRz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+  <a href="https://stackoverflow.com/users/24548878/huzaifa-a" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=fff" />
+  </a>
+</p>
