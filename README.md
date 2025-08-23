@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1740&auto=format&fit=crop&q=80" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Huzaifa Raza</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">🚀 MERN Stack Developer & Designer | Karachi</h3>
 
 ---
