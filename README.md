@@ -1,31 +1,49 @@
 <div align="center">
-  <img src="[https://res.cloudinary.com/ddaor3t8o/image/upload/v1769804281/k8u87hlirkdtzj6ug6il.png](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Banner" width="100%" loading="lazy" />
+  <img 
+    src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1776&auto=format&fit=crop" 
+    alt="Banner" 
+    width="100%" 
+  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">🚀 MERN Stack Developer & Designer | Karachi</h3>
+<h3 align="center">🚀 MERN Stack Developer & UI-Focused Frontend Engineer | Karachi</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 **2 Years Experience** in web development  
-- 🎓 Completed **1 Year MERN Stack Course from SMIT**  
-- 🎨 Passionate about **creative UI/UX, animations, and performance optimization**  
+- 💼 **2+ Years Experience** in Web Development  
+- 🎓 Completed **1 Year MERN Stack Program from SMIT**  
+- ⚛️ Strong grip on **React, State Management & Firebase Auth**  
+- 🎨 Love building **clean UI, smooth animations & responsive layouts**  
+- 🧠 Focused on **logic building, reusable components & performance**
+
+---
+
+### 🧠 Core Skills
+- ⚛️ **React.js** (Hooks, Context API, useReducer, Route Protection)
+- 🔥 **Firebase** (Auth, Firestore, Secure Rules)
+- 🌐 **REST APIs Integration**
+- 🧩 **State Management** (Context + Reducer pattern)
+- 🔐 **Authentication & Authorization**
+- 📦 **Vite + Netlify Deployment**
+- 🛠️ **Debugging & Error Handling**
+- 🎯 **Responsive Design (Mobile-First)**
 
 ---
 
 ### 🛠️ Languages & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000)
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
-![Locomotive Scroll](https://img.shields.io/badge/Locomotive-000000?style=for-the-badge&logo=webpack&logoColor=fff)
-![CSS Animation](https://img.shields.io/badge/CSS_Animation-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ---
 
