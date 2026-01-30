@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1740&auto=format&fit=crop&q=80](https://res.cloudinary.com/ddaor3t8o/image/upload/v1769804281/k8u87hlirkdtzj6ug6il.png)" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/ddaor3t8o/image/upload/v1769804281/k8u87hlirkdtzj6ug6il.png" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
