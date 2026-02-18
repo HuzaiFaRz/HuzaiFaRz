@@ -47,29 +47,32 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
-| Project | Short Description | Tech Stack | Live Demo |
-|---------|-----------------|------------|-----------|
-| **ChatSpace** | Real-time chat application with modern UI and authentication | React, Firebase, Material UI, React Router | [Demo](#) |
-| **EmpManage** | Employee management system with authentication-based access | React, Firebase, Tailwind CSS, React Router | [Demo](#) |
-| **Social-Web** | UI-focused social website clone with interactive components | HTML, CSS, JavaScript, Bootstrap | [Demo](https://huzaifasocialweb.netlify.app/) |
-| **Micro Finance App** | Loan management & calculation system with clean dashboard | React, Firebase Auth, Firestore, Tailwind CSS, Vite | [Demo](#) |
-| **Banking Web App** | User login/signup with deposit & withdrawal functionality | HTML, CSS, JavaScript | [Demo](https://huzaifabankapp.netlify.app/) |
-| **David Chang Portfolio** | Interactive portfolio with GSAP, Three.js, and Shery.js effects | HTML, CSS, JavaScript, GSAP, Three.js | [Demo](https://huzaifadavidchang.netlify.app/) |
-| **Travel Designing** | Responsive travel website template with carousel & video | HTML, CSS, JavaScript | [Demo](https://huzaifatraveldesigning.netlify.app/) |
-| **Weather Web App** | Real-time weather application using OpenWeather API | HTML, CSS, JavaScript, REST API | [Demo](https://huzaifaweatherweb.netlify.app/) |
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| **Weather-Web** | Real-time weather search app using OpenWeather API | HTML, CSS, JavaScript, REST API | [Live](https://huzaifaweatherweb.netlify.app/) |
+| **Travel-Designing** | Travel website template with carousel & video | HTML, CSS, JavaScript | [Live](https://huzaifatraveldesigning.netlify.app/) |
+| **David-Chang** | Interactive portfolio with GSAP & Three.js | HTML, CSS, JS, GSAP, Three.js | [Live](https://huzaifadavidchang.netlify.app/) |
+| **Banking-Web** | Banking app with login/signup & transactions | HTML, CSS, JavaScript | [Live](https://huzaifabankapp.netlify.app/) |
+| **Snake-Game** | Classic snake game (desktop optimized) | HTML, CSS, JavaScript | [Live](https://huzaifasnakegame.netlify.app/) |
+| **TodoAuth** | TODO app with Firebase Auth & database | HTML, CSS, JavaScript, Firebase | [Live](https://huzaifatodoauth.netlify.app/) |
+| **Red-IT-Theme** | Responsive Red IT template clone | HTML, CSS, Bootstrap | [Live](https://huzaifaredittheme.netlify.app/) |
+| **Social-Web** | Social UI clone with chat & stories | HTML, CSS, JS, Flickity, PlyrJS | [Live](https://huzaifasocialweb.netlify.app/) |
+| **FinPage-Rebuild** | Webflow template rebuild in React | React, Tailwind CSS, GSAP | [Live](https://huzaifafinpage.netlify.app/) |
+| **Lift-Moving** | Interactive elevator simulation | HTML, CSS, JavaScript | [Live](https://huzaifaliftmover.netlify.app/) |
+| **Quiz-Web** | Quiz app with timer and login | HTML, CSS, JS | [Live](https://huzaifaquizwebapp.netlify.app/) |
+| **Random-Number-Game** | Find & click number grid game | HTML, CSS, JavaScript | [Live](https://huzaifarandomnum.netlify.app/) |
+| **Mr.HuzaiFa** | Animated personal portfolio | HTML, CSS, JS, GSAP | [Live](https://huzaifaprofessionalportfolio.netlify.app/) |
+| **Global-Design-Agency** | Agency homepage clone with animation | HTML, CSS, JavaScript | [Live](https://huzaifaglobaldesignagency.netlify.app/) |
+| **AOS** | Responsive site clone of official AOS project | HTML, CSS | [Live](https://huzaifaaos.netlify.app/) |
 
-> ⚡ Tip: Tum ye table dynamically update kar sakte ho jab naye projects add karo.  
-
----
 
 ### 🛠️ Languages & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
@@ -77,10 +80,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuzaiFaRz&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFaRz&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HuzaiFaRz&show_icons=true&theme=dark&hide_border=true" />
 
 ---
 
