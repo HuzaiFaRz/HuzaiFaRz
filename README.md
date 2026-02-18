@@ -11,7 +11,7 @@
 
 <p align="center">
   <i>
-    A logic-driven React developer who builds real-world apps, fixes problems, and focuses on clean UI and scalable code.
+    Logic-driven React developer building real-world applications with clean UI, scalable code, and problem-solving focus.
   </i>
 </p>
 
@@ -47,56 +47,20 @@
 
 ---
 
-### 🚀 Real Projects
+### 🚀 Featured Projects
 
-#### 💬 ChatSpace
-**Connect, Chat, and Share Seamlessly**  
+| Project | Short Description | Tech Stack | Live Demo |
+|---------|-----------------|------------|-----------|
+| **ChatSpace** | Real-time chat application with modern UI and authentication | React, Firebase, Material UI, React Router | [Demo](#) |
+| **EmpManage** | Employee management system with authentication-based access | React, Firebase, Tailwind CSS, React Router | [Demo](#) |
+| **Social-Web** | UI-focused social website clone with interactive components | HTML, CSS, JavaScript, Bootstrap | [Demo](https://huzaifasocialweb.netlify.app/) |
+| **Micro Finance App** | Loan management & calculation system with clean dashboard | React, Firebase Auth, Firestore, Tailwind CSS, Vite | [Demo](#) |
+| **Banking Web App** | User login/signup with deposit & withdrawal functionality | HTML, CSS, JavaScript | [Demo](https://huzaifabankapp.netlify.app/) |
+| **David Chang Portfolio** | Interactive portfolio with GSAP, Three.js, and Shery.js effects | HTML, CSS, JavaScript, GSAP, Three.js | [Demo](https://huzaifadavidchang.netlify.app/) |
+| **Travel Designing** | Responsive travel website template with carousel & video | HTML, CSS, JavaScript | [Demo](https://huzaifatraveldesigning.netlify.app/) |
+| **Weather Web App** | Real-time weather application using OpenWeather API | HTML, CSS, JavaScript, REST API | [Demo](https://huzaifaweatherweb.netlify.app/) |
 
-A real-time chat application allowing users to connect and communicate with a modern UI.
-- User authentication & protected routes  
-- Real-time messaging using Firebase  
-- Material UI components  
-- Client-side routing with React Router  
-
-**Tech Stack:** React, Firebase, Material UI, React Router  
-
----
-
-#### 🧑‍💼 EmpManage (Employee Management System)
-**Simplifying Employee Management and Communication**  
-
-An internal system to manage employees and streamline communication.
-- Employee data management  
-- Authentication-based access  
-- Clean, responsive UI  
-- Scalable component structure  
-
-**Tech Stack:** React, Firebase, Tailwind CSS, React Router  
-
----
-
-#### 🌐 Social-Web
-**UI-focused Social Website**  
-
-Frontend-focused project to practice layouts, responsiveness, and interactive features.
-- Responsive social-style UI  
-- Interactive components with JavaScript  
-- Design consistency and layout practice  
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-
----
-
-#### 💰 Micro Finance App
-**Loan Management & Calculation System**  
-
-A finance application for managing loans and calculating EMIs with a clean dashboard.
-- Loan calculation and management logic  
-- Form validation using useReducer  
-- User authentication and dashboard management  
-- Responsive UI with performance optimizations  
-
-**Tech Stack:** React, Firebase Auth, Firestore, Tailwind CSS, Vite  
+> ⚡ Tip: Tum ye table dynamically update kar sakte ho jab naye projects add karo.  
 
 ---
 
