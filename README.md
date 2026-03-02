@@ -45,29 +45,29 @@
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| Micro Finance App | Loan & finance management with clean dashboard | React, Firebase, TailwindCSS | [Live Demo](https://huzaifamicrofinance.netlify.app/) |
-| EmpManage | Employee management system with authentication | React, Firebase, TailwindCSS | [Live Demo](https://huzaifaempmanage.netlify.app/) |
-| AOS | Responsive site clone of official AOS project | HTML, CSS | [Live Demo](https://huzaifaaos.netlify.app/) |
-| Global-Design-Agency | Agency homepage clone with animations | HTML, CSS, JavaScript, GSAP | [Live Demo](https://huzaifaglobaldesignagency.netlify.app/) |
-| Calculator | Simple calculator web app | HTML, CSS, JavaScript | [Live Demo](https://huzaifacalculator.netlify.app/) |
-| **Age-Calculator** | Calculates age from user input | HTML, CSS, JS | [Live Demo](https://huzaifaagecalculator.netlify.app/) |
-| **Image-Slider** | Responsive image slider | HTML, CSS, JS | [Live Demo](https://huzaifaimageslider.netlify.app/) |
-| **Mr.HuzaiFa** | Animated personal portfolio | HTML, CSS, JS, GSAP, Flickity | [Live Demo](https://huzaifaprofessionalportfolio.netlify.app/) |
-| **Random-Number-Game** | Interactive number-finding game | HTML, CSS, JS | [Live Demo](https://huzaifarandomnum.netlify.app/) |
-| **Quiz-Web** | Quiz app with login and timer | HTML, CSS, JS | [Live Demo](https://huzaifaquizwebapp.netlify.app/) |
-| **Lift-Moving** | Elevator simulation | HTML, CSS, JS | [Live Demo](https://huzaifaliftmover.netlify.app/) |
-| **FinPage-Rebuild** | Webflow template rebuild in React | React, Tailwind CSS, GSAP | [Live Demo](https://huzaifafinpage.netlify.app/) |
-| **Social-Web** | Social website clone with chat & stories | HTML, CSS, JS, Flickity, PlyrJS | [Live Demo](https://huzaifasocialweb.netlify.app/) |
-| **Red-IT-Theme** | Red IT template clone | HTML, CSS, Bootstrap | [Live Demo](https://huzaifaredittheme.netlify.app/) |
-| **TodoAuth** | Real-world todo app with Firebase Auth & DB | HTML, CSS, JS, Firebase | [Live Demo](https://huzaifatodoauth.netlify.app/) |
-| **Snake-Game** | Classic snake game (desktop only) | HTML, CSS, JS | [Live Demo](https://huzaifasnakegame.netlify.app/) |
-| **Banking-Web** | User login/signup with deposit & withdrawal | HTML, CSS, JS | [Live Demo](https://huzaifabankapp.netlify.app/) |
-| **David-Chang** | Interactive portfolio with 3D & animation | HTML, CSS, JS, GSAP, Three.js | [Live Demo](https://huzaifadavidchang.netlify.app/) |
-| **Travel-Designing** | Travel website template with carousel & video | HTML, CSS, JS | [Live Demo](https://huzaifatraveldesigning.netlify.app/) |
-| **Weather-Web** | Real-time weather app using OpenWeather API | HTML, CSS, JS, REST API | [Live Demo](https://huzaifaweatherweb.netlify.app/) |
-| **ChatSpace** | Real-time chat application | React, Firebase, Material UI, React Router | [Live Demo](https://huzaifachatspace.netlify.app/) |
-| **LuminaForge** | Client-side image processing application with real-time canvas manipulation and export functionality | React, HTML5 Canvas, Tailwind CSS | [Live Demo](https://huzaifaluminaforge.netlify.app/) |
-| **Tic-Tac-Teo** | Interactive two-player game with win detection logic and dynamic UI updates | React, CSS, JavaScript | [Live Demo](https://huzaifatictacteo.netlify.app/) |
+| Micro Finance App | Loan & finance management with clean dashboard | React, Firebase, TailwindCSS | [Live](https://huzaifamicrofinance.netlify.app/) |
+| EmpManage | Employee management system with authentication | React, Firebase, TailwindCSS | [Live](https://huzaifaempmanage.netlify.app/) |
+| AOS | Responsive site clone of official AOS project | HTML, CSS | [Live](https://huzaifaaos.netlify.app/) |
+| Global-Design-Agency | Agency homepage clone with animations | HTML, CSS, JavaScript, GSAP | [Live](https://huzaifaglobaldesignagency.netlify.app/) |
+| Calculator | Simple calculator web app | HTML, CSS, JavaScript | [Live](https://huzaifacalculator.netlify.app/) |
+| **Age-Calculator** | Calculates age from user input | HTML, CSS, JS | [Live](https://huzaifaagecalculator.netlify.app/) |
+| **Image-Slider** | Responsive image slider | HTML, CSS, JS | [Live](https://huzaifaimageslider.netlify.app/) |
+| **Mr.HuzaiFa** | Animated personal portfolio | HTML, CSS, JS, GSAP, Flickity | [Live](https://huzaifaprofessionalportfolio.netlify.app/) |
+| **Random-Number-Game** | Interactive number-finding game | HTML, CSS, JS | [Live](https://huzaifarandomnum.netlify.app/) |
+| **Quiz-Web** | Quiz app with login and timer | HTML, CSS, JS | [Live](https://huzaifaquizwebapp.netlify.app/) |
+| **Lift-Moving** | Elevator simulation | HTML, CSS, JS | [Live](https://huzaifaliftmover.netlify.app/) |
+| **FinPage-Rebuild** | Webflow template rebuild in React | React, Tailwind CSS, GSAP | [Live](https://huzaifafinpage.netlify.app/) |
+| **Social-Web** | Social website clone with chat & stories | HTML, CSS, JS, Flickity, PlyrJS | [Live](https://huzaifasocialweb.netlify.app/) |
+| **Red-IT-Theme** | Red IT template clone | HTML, CSS, Bootstrap | [Live](https://huzaifaredittheme.netlify.app/) |
+| **TodoAuth** | Real-world todo app with Firebase Auth & DB | HTML, CSS, JS, Firebase | [Live](https://huzaifatodoauth.netlify.app/) |
+| **Snake-Game** | Classic snake game (desktop only) | HTML, CSS, JS | [Live](https://huzaifasnakegame.netlify.app/) |
+| **Banking-Web** | User login/signup with deposit & withdrawal | HTML, CSS, JS | [Live](https://huzaifabankapp.netlify.app/) |
+| **David-Chang** | Interactive portfolio with 3D & animation | HTML, CSS, JS, GSAP, Three.js | [Live](https://huzaifadavidchang.netlify.app/) |
+| **Travel-Designing** | Travel website template with carousel & video | HTML, CSS, JS | [Live](https://huzaifatraveldesigning.netlify.app/) |
+| **Weather-Web** | Real-time weather app using OpenWeather API | HTML, CSS, JS, REST API | [Live](https://huzaifaweatherweb.netlify.app/) |
+| **ChatSpace** | Real-time chat application | React, Firebase, Material UI, React Router | [Live](https://huzaifachatspace.netlify.app/) |
+| **LuminaForge** | Client-side image processing application with real-time canvas manipulation and export functionality | React, HTML5 Canvas, Tailwind CSS | [Live](https://huzaifaluminaforge.netlify.app/) |
+| **Tic-Tac-Teo** | Interactive two-player game with win detection logic and dynamic UI updates | React, CSS, JavaScript | [Live](https://huzaifatictacteo.netlify.app/) |
 
 ---
 
