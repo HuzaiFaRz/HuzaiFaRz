@@ -1,6 +1,6 @@
 <!-- Live Typing Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Muhammad+Huzaifa;MERN+Stack+Developer;Frontend+Engineer;Building+3D+%26+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Huzaifa;MERN+Stack+Developer;Frontend+Engineer;Building+3D+%26+Web+Experiences" alt="Typing SVG" />
 
   <p align="center">
     <em>🚀 Transforming complex ideas into immersive, scalable web applications.</em>
@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&text_color=c9d1d9&icon_color=a855f7" alt="Huzaifa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifarz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&text_color=c9d1d9&icon_color=a855f7" alt="Huzaifa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifarz&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <br>
